@@ -15,8 +15,6 @@ gems:
 - jekyll-feed
 - jemoji
 
-theme: alembic-jekyll-theme
-
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
