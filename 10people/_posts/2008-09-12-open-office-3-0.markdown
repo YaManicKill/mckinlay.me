@@ -1,0 +1,29 @@
+---
+layout: post
+title: Open Office 3.0
+date: 2008-09-12 01:13:00.000000000 +01:00
+collection: posts
+category: Tech
+---
+
+Before I start, I would like to point out that OOo3 is not fully stable yet. It is in Release Candidate stage, which means that it is pretty much stable, but there may still be bugs in it.
+
+I read recently that OOo3 has just gone into RC1 stage, and decided that I should give it a try, because I think it is a fantastic peogram, and an advancement for the OpenSource world.
+
+So basically, I was very pleased to see that actually, OOo3 now has a database program, which I believe it didn’t have before hand. This is fantastic addition, that will probably please many people who had this reason only not to switch to OOo3, which I think I may know a few of them.
+
+Another good addition for the OOo users is the fact that we don’t have to email back to people and say “Could you please send me this back in something other than .docx. .txt would be preferable, but .doc will suffice. The reason for this is because OOo3 has support for read-only support for MSO 2007 formats, and read-write support is planned. However, why send anyone a .docx when they can read .doc anyway? And if MS stick to their plan, they will be able to read .odt anyways. So I’m not fussed about being able to write to docx files.
+
+I have told a number of people who are confused by 2007s format, that OOo has a format similar to 2003, and this is still true, however, it may be simple and similar to previous MSOffices, but it could do with a bit of sprucing up. As [Preston Galla](http://blogs.computerworld.com/openoffice_3_review_who_needs_microsoft_office) says in his review of the beta, “it is like taking a trip to the ’90s”
+
+That being said, I do prefer its format to MS Offics ’07. It just doesn’t work. I don’t know why MS like to change things all the time just because they can. A comment from the blog I just quoted says “Suppose every time you bought a new car, you had how to drive all over again.”
+
+I am all for redesigning and resprucing of programs, but why completely change the way it looks, works and is designed, just because you can. It worked like it was, just add stuff to it and make it better. Don’t completely redo it so noone know how to work it.
+
+OOo3 really feels like a full Office suite thanks to The Start Centre.
+
+![](http://blogs.computerworld.com/sites/default/themes/cw_blogs/cache/files/u98/Start_Centre.jpg)
+
+If you are not running an OOo application already, this pops up and asks what you want to do. Makes it feel very professional, and integrated into everything else.
+
+To summarise, all in all, I really really like OOo3 but I would like a wee bit of polishing up on the UI. If anyone can do something in Microsoft Office which they cannot do in OOo3, (something that you would actually use in real life) then please tell me, because I would really like to know.

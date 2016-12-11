@@ -1,0 +1,37 @@
+---
+layout: post
+title: Songbird 1.0
+date: 2008-12-03 18:39:00.000000000 +00:00
+collection: posts
+category: Tech
+---
+
+Songbird is finally stable. Well…officially anyways.
+
+I’ve always found the whole 1.0 thing funny to be honest. Take WINE for example. It was “unstable” for 15 years. But what makes that stable or unstable? I’m not sure. I never had it crash on me before it was stable.
+
+What actually makes something stable or unstable? Do there have to be a certain amount of crashes to be unstable? I’m not sure.
+
+Anyway, this isn’t about stable/unstable. This is about the 1.0 release of Songbird.
+
+Now as we all know…Songbird is nowhere near good enough to be a replacement for normal people of iTunes, Amarok or WMP (if WMP is really your thing, I never liked it at all).
+
+For example…it cannot rip or burn cds. It cannot constantly watch a folder and add tracks to it. It does not work with media keys (unless you are running linux on i386 with the MMkeys addon). I cannot get podcasting to work.
+
+But, although it isn’t as good as the big dogs yet…it is good enough for me to use it all the time. The only 2 things out of that list that annoy me are 1. folder watching and 2. media keys. Yes, I am running linux, but the addon doesnt work for 64 bit.
+
+It does have loads of great things going for it:  
+ 1. Addons. Yes, some people may not like them…but I love them. I wanna be able to mod it.  
+ 2. Open source. “Wow” I hear some of you saying sarcastically. But seriously…this means that it will get updated more, it has a great community around it, etc etc.  
+ 3. The Browsing. I don’t use this very often. But for when you just have songbird open…say at a party…and you wanna show someone a youtube video or something…no need to bring up firefox, just “ctrl-t” and go to youtube.
+
+This along with the fact that it looks well good if you skin it how you like it. Take a look at mine. I’m using YABS (Yet Another Black Skin).
+
+There are also, of course, things that I really want them to change.
+
+ 1. Native titlebars. This really annoys me…I want songbird to use the same titlebar as everything else in my computer…but it doesnt. There is talk about changing this so that it does…but we shall have to wait and see.  
+ 2. As I said before, the MMKeys and the Folder watching needs to be implemented.
+
+Once I get those 3…I would be exstatic. Obviously they could slim it down a bit, because at this point in time, it is quite big. Granted, 3.5% of my 4GB of RAM isn’t huge…but I am a power user. I run thousands of things at once.
+
+These are my thoughts on Songbird.

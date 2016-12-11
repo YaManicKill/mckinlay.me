@@ -1,0 +1,41 @@
+---
+layout: post
+title: To patent or not to patent
+date: 2011-09-03 13:25:04.000000000 +01:00
+collection: posts
+category: Tech
+---
+
+We have recently heard of a bunch of new patents from Apple. Now, don’t get this as being an Apple bashing post, this is a stupid patent bashing post. Lets have a look at, first of all, what patents were designed for in the first place.
+
+If you have been reading tech blogs over the last few months, or listening to pretty much any TwiT or Sixgun (yeah, that’s right, I put them in the same category now ;-)) podcast, you will have heard the opinion that patents were origionally invented to encourage openness.
+
+Now, there is many an opinion that patents are there to protect people from their ideas being stolen. But, it appears that patents were, infact, designed to encourage people to tell the world how they did this, and in return they got a temporary monopoly on this particular technology. Now, however, patents seem to be a way to get as many obvious things as possibly patented so you can make lots of money…
+
+Lets take some of the new patents from Apple as an example:
+
+- [Solar powered charging for iDevices](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,004,113.PN.&OS=PN/8,004,113&RS=PN/8,004,113)
+
+Now, maybe its just me…but where on earth does taking a widespread technology, and putting it on another widespread technology make it unique and patentable? Now, I’m not an expert in legalese, but from reading the patent document, it seems like they are just saying “We will stick a solar charger on our devices…”.
+
+An apparatus for operating a portable electronic device, comprising: a voltage converter having an input and an output, wherein the input is capable of being coupled to a solar power source and the output is capable of being coupled to a portable electronic device, and wherein the voltage converter is configured to convert solar power received from the solar power source to power the portable electronic device
+
+I have a solar battery charger. If you consider a portable battery charger as a “portable electronic device”, then this describes my battery charger almost exactly. What on earth is unique about this patent? Connecting a solar panel to an electronic device is not new, innovative or clever…
+
+- [“Rotating the display orientation of a captured image.”](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=RE42,639.PN.&OS=PN/RE42,639&RS=PN/RE42,639)
+
+Do I need to say anything about this one? Digital cameras have done this for about 10 years…I’m sorry but this one is ridiculous.
+
+- [“Automatic configuration of peripherals”](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,006,002.PN.&OS=PN/8,006,002&RS=PN/8,006,002)
+
+Erm…I don’t really understand this one, I’ll be honest. Are they just saying making a peripheral do soemthing automatically when you plug it in? This seems extremely vague and the complete opposite of revolutionary.
+
+- [Cover flow for videos](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8,006,185.PN.&OS=PN/8,006,185&RS=PN/8,006,185)
+
+Right, finally we are actually at something that is more possibly patentable. However, lets think about this. Apple technically already have a patent for [cover flow in general](http://www.ilounge.com/index.php/news/comments/apple-granted-design-patent-for-cover-flow/). Not getting into whether or not this is a decent patent, it shouldn’t be patentable a second time. Using video instead of pictures is not a hugely revolutionary step, and if it is, its already been done.
+
+You could argue quite easily that cover flow is now an “obvious” thing because its been around for such a long time. Heck, I have a coverflow style window switcher on my Linux desktop. Google has it in their new music app. Etc etc, and Apple isn’t pursuing anyone around these patents, so clearly it agrees with me that it is obvious. Therefore, using video in this way (which the netflix app on google tv uses) is not really revolutionary.
+
+ 
+
+Ok, there are 3 problems with all of these patents. None of them are revolutionary, none of them actually are in a working product from Apple, and they are all generic “ideas”. For a patent to be patentable, they should be new and revolutionary, they should have at least a working prototype not a vague wishy washy “we might do this in this sort of way…”, and they should be specific implementations, not vague ideas. This is just getting ridiculous and the system needs an overhaul, if not a complete scrap. But at least an overhaul…

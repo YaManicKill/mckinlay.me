@@ -1,0 +1,9 @@
+---
+layout: post
+title: 2000 views!!!
+date: 2009-05-28 23:59:00.000000000 +01:00
+collection: posts
+category: Tech
+---
+
+I just noticed that my blog just hit 2000 views. I don’t like posting blogs like this, they feel like they should be tweets, but 2000 views is a lot. I’m quite amazed that either a lot of people look at my blog once, or a few people look at it lots of times…either way, I’m happy. Thanks for reading my random, and occaisionally useful, information.

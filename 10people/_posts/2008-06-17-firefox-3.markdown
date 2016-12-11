@@ -1,0 +1,15 @@
+---
+layout: post
+title: Firefox 3...
+date: 2008-06-17 01:52:00.000000000 +01:00
+collection: posts
+category: Tech
+---
+
+will finally be released in a few hours.
+
+I have to say, I am extremely excited, because this means that my addons will start to properly work with firefox 3, and then I can put the version checking and security update checking back on.
+
+I noticed just now, that 1400000 people have pledged to download firefox, and annoyingly, we have to download it from the website, rather than updating from the repos, so I shall be doing that as well…anything to get a world record eh ![:P](http://www.10people.co.uk/wp-includes/images/smilies/icon_razz.gif)
+
+So far I have been very happy with firefox 3, and I’m just looking forward to addon compatibility.

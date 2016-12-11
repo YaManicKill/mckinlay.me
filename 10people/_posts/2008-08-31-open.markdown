@@ -1,0 +1,15 @@
+---
+layout: post
+title: Open...
+date: 2008-08-31 01:08:00.000000000 +01:00
+collection: posts
+category: Tech
+---
+
+Ok, so I was thinking recently of all the open-source things there are now. Granted, in some cases, they aren’t as featureful, or mature, and their proprietry counterparts, because they are newer, but I can’t think of any proprietry program that there isn’t an open-source counterpart to.
+
+There is even an open-source IM protocol (jabber), an open source micro-blogging tool (identi.ca) and an open-source map (openstreetmap.org).
+
+I was also looking at the progress of open-source programs, and realised that, although they are newer than some, they are progressing much quicker. The problem is, a lot of the time, they are trying to use features that propreitry ones do, so that people wanting to switch to open-source don’t feel like they have to stay with proprietry. However, because of this, they are slightly behind because they don’t know what the proprietry programs are going to be doing.
+
+Of course, in other circumstances, we are ahead of proprietry programs. Granted, Windows Vista Ultimate edition uses some 3D desktop effects, but they are nowhere near the amount in Compiz-fusion.

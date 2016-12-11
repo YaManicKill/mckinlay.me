@@ -1,0 +1,16 @@
+---
+layout: post
+title: Songbird 1.1
+date: 2009-03-11 00:10:00.000000000 +00:00
+collection: posts
+category: Tech
+---
+
+Just a quick wee blog post. Songbird 1.1 was just released 2 hours ago. I really don’t have time this week to review it, but I will do as soon as I can. In the meantime, here are a few of the main features.
+
+- Songbird can now Watch Folders. A necessary feature in any all-purpose media player, but one that Songbird has been lacking in. Until now!!! So…check that off your “I can’t use Songbird because it doesnt do *blank* and itunes does.” list.
+- It has built in the 7-digital mp3 store. No idea if this is any decent…but it could be. Will have to try it out and see.
+- It has “reduced memory use with a large library by 40%” and “Cut CPU usage during playback by half”. These are good…no?
+
+Anyways, this is just a short overview of what Songbird 1.1 has in store. I will give you a fuller review some other time. Maybe this weekend..maybe not.  
+memory

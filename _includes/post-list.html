@@ -19,7 +19,7 @@
 	<h2>Latest blog posts</h2>
 	<ul class="list  list--posts">
 		{% assign category = page.category %}
-		{% for page in site.posts limit: 4 %}
+		{% for page in site.categories[category] limit: 4 %}
 		  {% if page.categories contains category %}
 			<li class="item  item--post">
 				<article class="article  article--post  typeset">
