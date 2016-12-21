@@ -1,0 +1,18 @@
+---
+layout: page
+title: About Me
+feature_text: |
+  ## Alistair McKinlay
+feature_image: "https://unsplash.it/1300/400?image=1000"
+image: "https://unsplash.it/600/400?image=1000"
+---
+
+My name is Alistair McKinlay. I am a software developer, focusing on web backend
+and frontend.
+
+Here are some of the projects I work on:  
+
+[<img src="/assets/thelounge.png" class="project-thumbnail" />](/thelounge)
+[<img src="/assets/porybox.png" class="project-thumbnail" />](/porybox)
+[<img src="/assets/flairhq.png" class="project-thumbnail" />](/flairhq)
+[<img src="/assets/viewfield.png" class="project-thumbnail" />](/viewfield)

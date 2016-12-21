@@ -2,6 +2,17 @@
 styles: true
 ---
 
+// Thumbnail images
+img.project-thumbnail {
+  width: 100%;
+  @media (min-width: 768px) {
+      width: 49%;
+  }
+  @media (min-width: 1024px) {
+      width: 32%;
+  }
+}
+
 
 // Frameworks & Imports
 @charset "utf-8";
@@ -136,7 +147,6 @@ body {
 .content {
   width: 100%;
   @include breakpoint(break-1) {
-    width: 62%;
     margin-right: 4%;
     &--full {
       width: 100%;
