@@ -61,20 +61,19 @@ defaults:
       image: "/assets/placeholder-social.png" # Default image for sharing
 
 encoding: utf-8 # Make sure the encoding is right
-title: "YaManicKill" # Site name or title, also used in jekyll-seo-tag
+title: "Alistair McKinlay" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Musings from a nerd" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.10people.co.uk" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/yamanickill/10people"
+url: "https://www.mckinlay.me" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/yamanickill/mckinlay.me"
 email: "blog@10people.co.uk"
-disqus: "alembic-1"
 avatarurl: "https://en.gravatar.com/userimage/4980373/ea450b7d082dce05e06a3052d53bc51a.png"
 
 # 8. Site navigation
 navigation_header:
   Home: /
-  10People: /10people
-  Alistotle: /alistotle
+  10People: http://www.10people.co.uk
+  Alistotle: http://www.alistotle.co.uk
 
 navigation_footer:
   Theme by David Darnes: https://darn.es
