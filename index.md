@@ -12,7 +12,7 @@ and frontend.
 
 Here are some of the projects I work on:  
 
-[<img src="/assets/thelounge.png" class="project-thumbnail" />](/thelounge)
-[<img src="/assets/porybox.png" class="project-thumbnail" />](/porybox)
-[<img src="/assets/flairhq.png" class="project-thumbnail" />](/flairhq)
-[<img src="/assets/viewfield.png" class="project-thumbnail" />](/viewfield)
+[<img src="/assets/thelounge.png" class="project-thumbnail" />](https://github.com/thelounge/lounge/)
+[<img src="/assets/porybox.png" class="project-thumbnail" />](https://www.porybox.com/about)
+[<img src="/assets/flairhq.png" class="project-thumbnail" />](https://hq.porygon.co/)
+[<img src="/assets/viewfield.png" class="project-thumbnail" />](http://viewfield.org.uk/)
