@@ -52,7 +52,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 title: "Al McKinlay" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Personal projects for Al McKinlay" # Site description and default description, also used in jekyll-seo-tag
+description: "My Podcasts and Projects" # Site description and default description, also used in jekyll-seo-tag
 url: "https://al.mckinlay.me" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/yamanickill/mckinlay.me"
 email: "blog@10people.co.uk"
