@@ -399,4 +399,13 @@ label {
   hr {
     width: 100%;
   }
+  
+  p a, li a {
+    background-image: none;
+
+    &:hover, &:active, &:focus {
+      background-image: none;
+    }
+  }
 }
+
