@@ -7,8 +7,7 @@ feature_image: "https://unsplash.it/1300/400?image=1000"
 image: "https://unsplash.it/600/400?image=1000"
 ---
 
-My name is Alistair McKinlay. I am a software developer, focusing on web backend
-and frontend.
+My name is Alistair McKinlay. I am a software developer, focusing on web development.
 
 Here are some of the projects I work on:  
 

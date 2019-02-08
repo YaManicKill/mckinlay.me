@@ -6,7 +6,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -33,15 +33,6 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
-collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "https://unsplash.it/1300/400?image=1067"
-
 defaults:
   -
     scope:
@@ -66,14 +57,6 @@ url: "https://alistair.mckinlay.me" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/yamanickill/mckinlay.me"
 email: "blog@10people.co.uk"
 avatarurl: "https://en.gravatar.com/userimage/4980373/ea450b7d082dce05e06a3052d53bc51a.png"
-
-# 8. Site navigation
-navigation_header:
-  Home: /
-  10People: http://www.10people.co.uk
-
-navigation_footer:
-  Theme by David Darnes: https://darn.es
 
 social_links:
   Twitter: https://twitter.com/YaManicKill
