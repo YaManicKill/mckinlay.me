@@ -2,8 +2,8 @@
 layout: page
 feature_text: |
   ## Al McKinlay
-feature_image: "https://unsplash.it/1300/400?image=1000"
-image: "https://unsplash.it/600/400?image=1000"
+feature_image: "https://picsum.photos/2000/400?image=529"
+image: "https://picsum.photos/600/400?image=529"
 ---
 
 I make software and podcasts.
