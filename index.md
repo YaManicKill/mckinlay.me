@@ -17,7 +17,7 @@ Here are some of my podcasts:
 
 Here are some of the software projects I work on:  
 
-[<img src="/assets/thelounge.png" class="project-thumbnail" />](https://github.com/thelounge/lounge/)
-[<img src="/assets/porybox.png" class="project-thumbnail" />](https://www.porybox.com/about)
-[<img src="/assets/flairhq.png" class="project-thumbnail" />](https://hq.porygon.co/)
+[<img src="/assets/thelounge.png" class="project-thumbnail site" />](https://github.com/thelounge/lounge/)
+[<img src="/assets/toolbox.png" class="project-thumbnail site" />](https://toolbox.yamanickill.com)
+
 <!-- [<img src="/assets/viewfield.png" class="project-thumbnail" />](http://viewfield.org.uk/) -->
