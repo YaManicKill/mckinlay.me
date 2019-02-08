@@ -18,11 +18,11 @@ plugins:
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: YaManicKill # jekyll-seo-tag > Owners twitter username
-author: YaManicKill # jekyll-seo-tag > default author
+author: TheScotBot # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Alistair McKinlay # jekyll-seo-tag > real name
+  name: Al McKinlay # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/YaManicKill
+    - https://twitter.com/TheScotBot
     - https://www.facebook.com/yamanickill
     - https://www.linkedin.com/in/alistair-mckinlay
     - https://github.com/yamanickill
@@ -50,10 +50,10 @@ defaults:
       image: "/assets/placeholder-social.png" # Default image for sharing
 
 encoding: utf-8 # Make sure the encoding is right
-title: "Alistair McKinlay" # Site name or title, also used in jekyll-seo-tag
+title: "Al McKinlay" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Musings from a nerd" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alistair.mckinlay.me" # Site url, also used in jekyll-seo-tag
+description: "Personal projects for Al McKinlay" # Site description and default description, also used in jekyll-seo-tag
+url: "https://al.mckinlay.me" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/yamanickill/mckinlay.me"
 email: "blog@10people.co.uk"
 avatarurl: "https://en.gravatar.com/userimage/4980373/ea450b7d082dce05e06a3052d53bc51a.png"
