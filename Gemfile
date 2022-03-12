@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Make sure Jekyll 3.3 is running
-gem "jekyll", "~> 3.3"
+gem "jekyll", "~> 4.0"
 
 # The theme for the site
 gem "alembic-jekyll-theme", "~> 3.1.0"
